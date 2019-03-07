@@ -7,7 +7,7 @@
 
 ## Intermediate
 
-## Advnaced
+## Advanced
 
 
 # Incident Response
