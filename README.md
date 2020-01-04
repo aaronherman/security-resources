@@ -14,9 +14,15 @@
 
 ## Advanced
 
+# CTF
+- [ ] [pcioCTF (beginner)](https://picoctf.com/)
+- [ ] [OverTheWire](https://overthewire.org/wargames/)
+
 # Podcasts
-- [ ] [Malicious Life](https://malicious.life/)
+- [ ] [Malicious Life](https://malicious.life)
 - [ ] [Cyber](https://motherboard.vice.com/en_us/topic/cyber)
+- [ ] [Smashing Security](https://www.smashingsecurity.com)
+- [ ] [The CyberWire](https://thecyberwire.com)
 
 # Incident Response
 - [ ] [Incident Response cheatsheet](https://github.com/certsocietegenerale/IRM/tree/master/EN)
