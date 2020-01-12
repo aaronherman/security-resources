@@ -14,6 +14,9 @@
 
 ## Advanced
 
+# Exercises
+- [ ] [PCAP](https://www.malware-traffic-analysis.net/training-exercises.html)
+
 # CTF
 - [ ] [pcioCTF (beginner)](https://picoctf.com/)
 - [ ] [OverTheWire](https://overthewire.org/wargames/)
@@ -26,6 +29,13 @@
 
 # Incident Response
 - [ ] [Incident Response cheatsheet](https://github.com/certsocietegenerale/IRM/tree/master/EN)
+
+## Threat Hunting
+- [ ] [ThreatHunting Reading List](https://www.threathunting.net/reading-list)
+
+## ATT&CK
+- [ ] [Overview & Dashboard](https://attack.mitre.org/)
+- [ ] [Pyramid of Pain](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
 
 # List of lists
 - [ ] [Awesome Forensics](https://github.com/cugu/awesome-forensics)
