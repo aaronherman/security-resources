@@ -64,3 +64,7 @@
 # Useful tools
 
 - [ ] [CyberChef](https://gchq.github.io/CyberChef/)
+- [ ] [VirusTotal](https://virustotal.com)
+- [ ] [DomainTools Whois](http://whois.domaintools.com/)
+- [ ] [Pulsedive](https://pulsedive.com/)
+- [ ] [ThreatMiner](https://www.threatminer.org/)
