@@ -28,7 +28,7 @@
 
 ## Challenges
 
-- [ ] [pcioCTF (beginner)](https://picoctf.com/)
+- [ ] [picoCTF (beginner)](https://picoctf.com/)
 - [ ] [OverTheWire](https://overthewire.org/wargames/)
 
 # Podcasts
