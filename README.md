@@ -13,6 +13,7 @@
 - [ ] [Crypto 101](https://www.crypto101.io/Crypto101.pdf)
 - [ ] [CWE/SANS Top 25](http://cwe.mitre.org/top25/)
 - [ ] [OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets)
+- [ ] [Damn Vulnerable Web Application](https://github.com/ethicalhack3r/DVWA)
 
 ## Advanced
 
