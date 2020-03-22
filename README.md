@@ -31,6 +31,7 @@
 
 - [ ] [picoCTF (beginner)](https://picoctf.com/)
 - [ ] [OverTheWire](https://overthewire.org/wargames/)
+- [ ] [Practice CTF List](https://captf.com/practice-ctf/)
 
 # Podcasts
 
