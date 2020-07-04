@@ -1,13 +1,18 @@
 # Security resources and readings
 
-# Readings
+## Readings
+- [ ] [The Cuckoo's Egg](https://amazon.com/CUCKOOS-EGG-Clifford-Stoll-ebook/dp/B0083DJXCM/)
+- [ ] [Sandworm](https://amazon.com/Sandworm-Cyberwar-Kremlins-Dangerous-Hackers-ebook/dp/B07GD4MFW2)
+- [ ] [Countdown to Zero Day](https://amazon.com/Countdown-Zero-Day-Stuxnet-Digital-ebook/dp/B00KEPLC08)
+- [ ] [Intelligence-Driven Incident Response](https://amazon.com/Intelligence-Driven-Incident-Response-Outwitting-Adversary-dp-1491934948/dp/1491934948/)
 
-## Introductions
+
+### Introductions
 - [ ] [Decent Security](https://decentsecurity.com/)
 - [ ] [OWASP Top 10](https://github.com/OWASP/Top10/blob/master/2017/OWASP%20Top%2010-2017%20(en).pdf)
 - [ ] [Introduction to Web Application Security](https://www.slideshare.net/nragupathy/introduction-to-web-application-security-blackhoodie-us-2018)
 
-## Intermediate
+### Intermediate
 
 - [ ] [Tufts: Defense Against The Dark Arts](https://tuftsdev.github.io/DefenseAgainstTheDarkArts/)
 - [ ] [Crypto 101](https://www.crypto101.io/Crypto101.pdf)
@@ -15,34 +20,40 @@
 - [ ] [OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets)
 - [ ] [Damn Vulnerable Web Application](https://github.com/ethicalhack3r/DVWA)
 
-## Advanced
+### Advanced
 
-# Exercises
+## Exercises
 
 - [ ] [PCAP](https://www.malware-traffic-analysis.net/training-exercises.html)
 
-# CTF
-
-## Resources
-- [ ] [CTF Field Guide](https://trailofbits.github.io/ctf/)
-- [ ] [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
-
-## Challenges
+### CTF
 
 - [ ] [picoCTF (beginner)](https://picoctf.com/)
 - [ ] [OverTheWire](https://overthewire.org/wargames/)
 - [ ] [Practice CTF List](https://captf.com/practice-ctf/)
 
-# Podcasts
+#### Resources
+- [ ] [CTF Field Guide](https://trailofbits.github.io/ctf/)
+- [ ] [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+
+## Podcasts
 
 - [ ] [Malicious Life](https://malicious.life)
 - [ ] [Cyber](https://motherboard.vice.com/en_us/topic/cyber)
 - [ ] [Smashing Security](https://www.smashingsecurity.com)
 - [ ] [The CyberWire](https://thecyberwire.com)
 
-# Incident Response
+## Incident Response
 
 - [ ] [Incident Response cheatsheet](https://github.com/certsocietegenerale/IRM/tree/master/EN)
+
+## Useful tools
+
+- [ ] [CyberChef](https://gchq.github.io/CyberChef/)
+- [ ] [VirusTotal](https://virustotal.com)
+- [ ] [DomainTools Whois](http://whois.domaintools.com/)
+- [ ] [Pulsedive](https://pulsedive.com/)
+- [ ] [ThreatMiner](https://www.threatminer.org/)
 
 ## Threat Hunting
 
@@ -63,10 +74,3 @@
 - [ ] [Awesome Infosec](https://github.com/onlurking/awesome-infosec)
 - [ ] [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)
 
-# Useful tools
-
-- [ ] [CyberChef](https://gchq.github.io/CyberChef/)
-- [ ] [VirusTotal](https://virustotal.com)
-- [ ] [DomainTools Whois](http://whois.domaintools.com/)
-- [ ] [Pulsedive](https://pulsedive.com/)
-- [ ] [ThreatMiner](https://www.threatminer.org/)
