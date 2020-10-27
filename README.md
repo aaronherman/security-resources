@@ -6,6 +6,12 @@
 - [ ] [Countdown to Zero Day](https://amazon.com/Countdown-Zero-Day-Stuxnet-Digital-ebook/dp/B00KEPLC08)
 - [ ] [Intelligence-Driven Incident Response](https://amazon.com/Intelligence-Driven-Incident-Response-Outwitting-Adversary-dp-1491934948/dp/1491934948/)
 
+## Podcasts
+
+- [ ] [Malicious Life](https://malicious.life)
+- [ ] [The CyberWire](https://thecyberwire.com)
+- [ ] [Smashing Security](https://www.smashingsecurity.com)
+- [ ] [Darknet Diaries](https://darknetdiaries.com/)
 
 ### Introductions
 - [ ] [Decent Security](https://decentsecurity.com/)
@@ -15,16 +21,11 @@
 ### Intermediate
 
 - [ ] [Tufts: Defense Against The Dark Arts](https://tuftsdev.github.io/DefenseAgainstTheDarkArts/)
-- [ ] [Crypto 101](https://www.crypto101.io/Crypto101.pdf)
+- [ ] [Damn Vulnerable Web Application](https://github.com/ethicalhack3r/DVWA)
+- [ ] [PCAP](https://www.malware-traffic-analysis.net/training-exercises.html)
 - [ ] [CWE/SANS Top 25](http://cwe.mitre.org/top25/)
 - [ ] [OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets)
-- [ ] [Damn Vulnerable Web Application](https://github.com/ethicalhack3r/DVWA)
-
-### Advanced
-
-## Exercises
-
-- [ ] [PCAP](https://www.malware-traffic-analysis.net/training-exercises.html)
+- [ ] [Crypto 101](https://www.crypto101.io/Crypto101.pdf)
 
 ### CTF
 
@@ -36,17 +37,6 @@
 - [ ] [CTF Field Guide](https://trailofbits.github.io/ctf/)
 - [ ] [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
-## Podcasts
-
-- [ ] [Malicious Life](https://malicious.life)
-- [ ] [Cyber](https://motherboard.vice.com/en_us/topic/cyber)
-- [ ] [Smashing Security](https://www.smashingsecurity.com)
-- [ ] [The CyberWire](https://thecyberwire.com)
-
-## Incident Response
-
-- [ ] [Incident Response cheatsheet](https://github.com/certsocietegenerale/IRM/tree/master/EN)
-
 ## Useful tools
 
 - [ ] [CyberChef](https://gchq.github.io/CyberChef/)
@@ -54,23 +44,18 @@
 - [ ] [DomainTools Whois](http://whois.domaintools.com/)
 - [ ] [Pulsedive](https://pulsedive.com/)
 - [ ] [ThreatMiner](https://www.threatminer.org/)
-
-## Threat Hunting
-
-- [ ] [ThreatHunting Reading List](https://www.threathunting.net/reading-list)
+- [ ] [ANY.RUN](https://app.any.run/)
 
 ## ATT&CK
 
 - [ ] [Overview & Dashboard](https://attack.mitre.org/)
 - [ ] [Pyramid of Pain](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
 
-# List of lists
+## List of lists
 
 - [ ] [Awesome Forensics](https://github.com/cugu/awesome-forensics)
 - [ ] [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
-- [ ] [Awesome DevSecOps](https://github.com/devsecops/awesome-devsecops)
 - [ ] [Infosec Reference](https://github.com/rmusser01/Infosec_Reference)
-- [ ] [Python Pentest Tools](https://github.com/dloss/python-pentest-tools)
-- [ ] [Awesome Infosec](https://github.com/onlurking/awesome-infosec)
 - [ ] [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)
-
+- [ ] [ThreatHunting Reading List](https://www.threathunting.net/reading-list)
+- [ ] [Incident Response cheatsheet](https://github.com/certsocietegenerale/IRM/tree/master/EN)
