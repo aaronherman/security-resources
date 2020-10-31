@@ -15,17 +15,21 @@
 
 ### Introductions
 - [ ] [Decent Security](https://decentsecurity.com/)
-- [ ] [OWASP Top 10](https://github.com/OWASP/Top10/blob/master/2017/OWASP%20Top%2010-2017%20(en).pdf)
+- [ ] [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 - [ ] [Introduction to Web Application Security](https://www.slideshare.net/nragupathy/introduction-to-web-application-security-blackhoodie-us-2018)
 
 ### Intermediate
 
 - [ ] [Tufts: Defense Against The Dark Arts](https://tuftsdev.github.io/DefenseAgainstTheDarkArts/)
 - [ ] [Damn Vulnerable Web Application](https://github.com/ethicalhack3r/DVWA)
-- [ ] [PCAP](https://www.malware-traffic-analysis.net/training-exercises.html)
+- [ ] [VulnWeb - vulnerable PHP](http://testphp.vulnweb.com/) and [all other stacks](http://www.vulnweb.com/)
+- [ ] [PCAP analysis](https://www.malware-traffic-analysis.net/training-exercises.html)
 - [ ] [CWE/SANS Top 25](http://cwe.mitre.org/top25/)
 - [ ] [OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets)
 - [ ] [Crypto 101](https://www.crypto101.io/Crypto101.pdf)
+
+### Advanced
+:thinking:
 
 ### CTF
 
